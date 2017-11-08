@@ -5,6 +5,7 @@
  * @version $Id$
  */
 .banner {
+  margin-top: 100px;
   width: 100%;
   height: 780px;
   /*background: url("../images/index/www.jpeg") no-repeat;
