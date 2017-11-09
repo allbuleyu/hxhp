@@ -60,6 +60,10 @@
 
     } 
 
+    .slogan {
+        font-size: 18px;color: #fff;position: absolute;left: 260px;top: 54px;
+    }
+
      
 
     .clearfix:before, 
