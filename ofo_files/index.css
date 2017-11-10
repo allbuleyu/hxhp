@@ -45,7 +45,7 @@
       background-size: 100%;
     }
   .banner1{
-    background: url(../images/index/www.jpeg) 0 0 no-repeat;
+    background: url(../images/index/www2.jpeg) 0 0 no-repeat;
     background-position: center top;
     background-size: cover; }
     .banner1 .col-1140,.banner1 .title{
@@ -70,22 +70,22 @@
       display: block;
       width: 54px;
       height: 54px;
-      background: url(../images/index/playbtn.png) 0 0 no-repeat; }
+      background: url(../images/index/www.jpeg) 0 0 no-repeat; }
   .banner2{
-    background: url(../images/index/home_bg2.jpg) 0 0 no-repeat;
+    background: url(../images/index/www.jpeg) 0 0 no-repeat;
     background-position: center top;
     background-size: cover;  display: block; }
       .banner3{
-    background: url(../images/index/home_bg3.jpg) 0 0 no-repeat;
+    background: url(../images/index/www.jpeg) 0 0 no-repeat;
     background-position: center top;
     background-size: cover;  display: block; }
       .banner4{
-    background: url(../images/index/home_bg4.jpg) 0 0 no-repeat;
+    background: url(../images/index/www.jpeg) 0 0 no-repeat;
     background-position: center top;
     background-size: cover;  display: block; }
     
   .banner2.banner-3{
-    background: url(../images/index/home_bg0.jpg) 0 0 no-repeat;
+    background: url(../images/index/www.jpeg) 0 0 no-repeat;
     background-position: center top;
     background-size: cover;  display: block;
   }
