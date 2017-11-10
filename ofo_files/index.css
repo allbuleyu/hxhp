@@ -46,7 +46,7 @@
     }
   .banner1{
     background: url(../images/index/www2.jpeg) 0 0 no-repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover; }
     .banner1 .col-1140,.banner1 .title{
       height: 100%;
@@ -73,20 +73,20 @@
       background: url(../images/index/www.jpeg) 0 0 no-repeat; }
   .banner2{
     background: url(../images/index/www.jpeg) 0 0 no-repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;  display: block; }
       .banner3{
     background: url(../images/index/www.jpeg) 0 0 no-repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;  display: block; }
       .banner4{
     background: url(../images/index/www.jpeg) 0 0 no-repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;  display: block; }
     
   .banner2.banner-3{
     background: url(../images/index/www.jpeg) 0 0 no-repeat;
-    background-position: center top;
+    background-position: center center;
     background-size: cover;  display: block;
   }
   .banner2.banner-4{
